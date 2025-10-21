@@ -1,1 +1,1 @@
-console.log('Hello Jenkins!')
+console.log('Auto build test after webhook setup')
